@@ -12,7 +12,7 @@ En este escenario, se modeló el sistema para un emprendimiento donde cada **Tie
 *   **Acciones Referenciales:** Uso de `ON DELETE CASCADE` para asegurar que, al eliminar una tienda, su inventario asociado también se elimine automáticamente.
 
 ### Diagrama Entidad-Relación (MER)
-![Diagrama MER](./relación.png)
+![Diagrama MER](./relacion.png)
 
 ## 🛠️ Tecnologías utilizadas
 *   **Motor de BD:** MySQL 8.0
